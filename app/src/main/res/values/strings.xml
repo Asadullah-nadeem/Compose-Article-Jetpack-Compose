@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Compose Article</string>
+
+    <!-- Compose Article Screen -->
+    <string name="titlea">Motivational Thoughts</string>
+    <string name="shortdesc">We cannot solve problems with the kind of thinking we employed when we came up with them.Learn as if you will live forever, live like you will die tomorrow.</string>
+    <string name="longdesc">
+1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+2. "The only way to do great work is to love what you do." - Steve Jobs
+
+3. "Believe you can and you're halfway there." - Theodore Roosevelt
+
+4. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+
+5. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+
+6. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
+7. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+
+8. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+
+9. "Success is not in what you have, but who you are." - Bo Bennett
+
+10. "The harder you work for something, the greater you'll feel when you achieve it." - Unknown
+
+11. "The secret of getting ahead is getting started." - Mark Twain
+
+12. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+
+13. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
+
+14. "It does not matter how slowly you go as long as you do not stop." - Confucius
+
+15. "The best way to predict the future is to create it." - Peter Drucker
+
+16. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+
+17. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+
+18. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+
+19. "Your time is now. Start where you are, with what you have, and never stop." - Unknown
+
+20. "Opportunities don't happen. You create them." - Chris Grosser
+
+21. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
+22. "Your positive action combined with positive thinking results in success." - Shiv Khera
+
+23. "Success is not just about making money. It's about making a difference." - Unknown
+
+24. "Difficulties in life are intended to make us better, not bitter." - Dan Reeves
+
+25. "Your dreams are the blueprints of your success." - Unknown
+
+26. "Success is not for the chosen few, but for the few who choose it." - Unknown
+
+27. "The journey of a thousand miles begins with a single step." - Lao Tzu
+
+28. "Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
+
+29. "Success is not the absence of failure; it's the persistence through failure." - Aisha Tyler
+
+30. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+
+31. "Success is not about the destination; it's about the journey." - Unknown
+
+32. "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this." - Chantal Sutherland
+
+33. "The harder you work, the luckier
+
+ you get." - Gary Player
+
+34. "The only way to do great work is to love what you do." - Steve Jobs
+
+35. "Believe you can and you're halfway there." - Theodore Roosevelt
+
+36. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+
+37. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
+38. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+
+39. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+
+40. "Success is not in what you have, but who you are." - Bo Bennett
+
+41. "The harder you work for something, the greater you'll feel when you achieve it." - Unknown
+
+42. "The secret of getting ahead is getting started." - Mark Twain
+
+43. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+
+44. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
+
+45. "It does not matter how slowly you go as long as you do not stop." - Confucius
+
+46. "The best way to predict the future is to create it." - Peter Drucker
+
+47. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+
+48. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+
+49. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+
+50. "Your time is now. Start where you are, with what you have, and never stop." - Unknown
+
+51. "Opportunities don't happen. You create them." - Chris Grosser
+
+52. "Success is not just about making money. It's about making a difference." - Unknown
+
+53. "Difficulties in life are intended to make us better, not bitter." - Dan Reeves
+
+54. "Your dreams are the blueprints of your success." - Unknown
+
+55. "Success is not for the chosen few, but for the few who choose it." - Unknown
+
+56. "The journey of a thousand miles begins with a single step." - Lao Tzu
+
+57. "Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
+
+58. "Success is not the absence of failure; it's the persistence through failure." - Aisha Tyler
+
+59. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+
+60. "Success is not about the destination; it's about the journey." - Unknown
+
+61. "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this." - Chantal Sutherland
+
+62. "The harder you work, the luckier you get." - Gary Player
+
+63. "Success is not the result of spontaneous combustion. You must set yourself on fire." - Arnold H. Glasow
+
+64. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+
+65. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will." - Vince Lomb
+
+ardi
+
+66. "Success is not just about making money. It's about making a difference and leaving a positive impact on the world." - Unknown
+
+67. "Your dreams may seem impossible until you take the first step towards achieving them." - Unknown
+
+68. "Success is not about luck; it's about hard work, perseverance, and learning from failures." - Unknown
+
+69. "When you face obstacles, remember that they are just stepping stones on your path to success." - Unknown
+
+70. "Success is not about reaching the top; it's about enjoying the journey and making progress every day." - Unknown
+
+71. "Don't let fear hold you back. Embrace challenges and turn them into opportunities for growth." - Unknown
+
+72. "Success is not determined by your circumstances but by how you respond to them." - Unknown
+
+73. "Believe in yourself, trust your instincts, and never give up on your dreams." - Unknown
+
+74. "Success is not a destination; it's a continuous journey of self-improvement and personal growth." - Unknown
+
+75. "The road to success is paved with hard work, dedication, and a positive mindset." - Unknown
+
+76. "Don't wait for opportunities to come to you. Create your own opportunities and seize them with both hands." - Unknown
+
+77. "Success is not about being the best; it's about being better than you were yesterday." - Unknown
+
+78. "Don't be afraid to fail. Failure is a stepping stone to success." - Unknown
+
+79. "Success is not guaranteed, but neither is failure. The choice is yours." - Unknown
+
+80. "Believe in your abilities, have faith in your vision, and take action to make your dreams a reality." - Unknown
+
+81. "Success is not measured by the money you make but by the impact you have on others' lives." - Unknown
+
+82. "Don't let setbacks discourage you. Use them as opportunities to learn and grow stronger." - Unknown
+
+83. "Success is not a one-time event; it's a result of consistent effort and perseverance." - Unknown
+
+84. "Believe in the power of your dreams, and they will become your reality." - Unknown
+
+85. "Success is not about finding yourself. It's about creating yourself." - Unknown
+
+86. "Don't compare yourself to others. Your journey is unique, and so is your definition of success." - Unknown
+
+87. "Success is not about having all the answers. It's about asking the right questions." - Unknown
+
+88. "Believe in the impossible, and you will achieve the extraordinary." - Unknown
+
+89. "Success is not about waiting for the perfect moment. It's about taking action and making the moment perfect." - Unknown
+
+90. "Don't let negativity hold you back. Surround yourself with positive people and positive energy." - Unknown
+
+91. "Success is not about luck; it's about preparation, hard work, and seizing opportunities." - Unknown
+
+92. "Believe in yourself even when others doubt you. Your belief is what will propel you towards success." - Unknown
+
+93. "Success is not about pleasing everyone. It's about staying true to yourself and following your own path." - Unknown
+
+94. "Don't be afraid to stand out. Be bold, be different, and embrace your uniqueness." - Unknown
+
+95. "Success is not a destination; it's a state of mind." - Unknown
+
+96. "Believe that you have the power to change your life and the world around you." - Unknown
+
+97. "Success is not about the possessions you have. It's about the impact you make and the lives you touch." - Unknown
+
+
+
+98. "Don't let past failures define you. Use them as stepping stones towards success." - Unknown
+
+99. "Success is not about being the best. It's about being the best version of yourself." - Unknown
+
+100. "Believe that you are capable of achieving greatness, and you will." - Unknown
+
+Remember, these motivational thoughts are meant to inspire and encourage you on your journey towards success.</string>
+</resources>
